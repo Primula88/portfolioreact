@@ -12,6 +12,7 @@
 		"axios": "^0.21.1",
 		"babel-eslint": "^10.1.0",
 		"color": "^4.2.3",
+		"craco": "^0.0.3",
 		"dompurify": "^2.3.0",
 		"eslint-config-react-app": "^7.0.1",
 		"firebase": "^8.7.0",

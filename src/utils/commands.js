@@ -154,7 +154,7 @@ let commandList = [
 	{
 		name: ["whoami"],
 		action: true,
-		response: "Aditya Sharma <br/> I'm a Full Stack Developer & DevOps Engineer",
+		response: "Merijn Fonteine <br/> I'm a Front End Engineer",
 		subPathStrict: [false],
 		description:
 			"prints the full name of the current administrator when invoked",
