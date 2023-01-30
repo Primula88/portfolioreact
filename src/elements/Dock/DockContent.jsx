@@ -4,7 +4,7 @@ import "@styles/dock.scss";
 import FinderIcon from "@static/finder.png";
 import CodeIcon from "@static/code.png";
 import GithubIcon from "@static/github.png";
-import instagramIcon from "@static/instagramIcon.png";
+import InstagramIcon from "@static/InstagramIcon.png";
 import FolderIcon from "@static/folder.png";
 import LinkedInIcon from "@static/LinkedInIcon.png";
 import NothingIcon from "@static/NothingIcon.png";
@@ -55,7 +55,7 @@ const DockContent = () => {
 							<a href="https://www.instagram.com/boba_the_rescue/">
 								<li data-title="My Dog's instagram">
 									<img
-										src={instagramIcon}
+										src={InstagramIcon}
 										className="img-fluid"
 										alt="mac"
 									/>
