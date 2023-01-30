@@ -52,7 +52,7 @@ const DockContent = () => {
 									/>
 								</li>
 							</Link>
-							<a href="https://twitter.com/aadityatwt">
+							<a href="">
 								<li data-title="Twitter">
 									<img
 										src={twitterIcon}
@@ -61,7 +61,7 @@ const DockContent = () => {
 									/>
 								</li>
 							</a>
-							<a href="https://www.linkedin.com/in/aditya-sharma-47b787201">
+							<a href="https://www.linkedin.com/in/merijn-fonteine-66877467/">
 								<li data-title="LinkedIn">
 									<img
 										src={LinkedInIcon}
