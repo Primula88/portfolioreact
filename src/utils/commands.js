@@ -76,24 +76,17 @@ let commandList = [
 		subPathStrict: [false],
 		description: "view my resume",
 	},
-	{
-		name: ["twitter"],
-		action: true,
-		response: 'Visit: <a href="https://twitter.com/aadityatwt">aadityatwt</a>',
-		subPathStrict: [false],
-		description: "checkout my Twitter profile",
-	  },
 	  {
 		name: ["github"],
 		action: true,
-		response: 'Visit: <a href="https://github.com/adityassharma-ss">aditya</a>',
+		response: 'Visit: <a href="https://github.com/primula88">primula88</a>',
 		subPathStrict: [false],
 		description: "checkout my github profile",
 	  },
 	  {
 		name: ["linkedin"],
 		action: true,
-		response: 'Visit: <a href="https://www.linkedin.com/in/aditya-sharma-47b787201/">LinkedIn</a>',
+		response: 'Visit: <a href="https://www.linkedin.com/in/merijn-fonteine-66877467/">LinkedIn</a>',
 		subPathStrict: [false],
 		description: "checkout my LinkedIn profile",
 	  },
@@ -171,13 +164,13 @@ commandList = commandList.map(item => {
 const fileList = [
 	{
 		name: ".github",
-		link: "https://github.com/adityassharma-ss",
+		link: "https://github.com/primula88",
 		folder: true,
 		executable: false,
 	},
 	{
 		name: "src",
-		link: "https://github.com/boidushya/aditya",
+		link: "https://github.com/primula88",
 		folder: true,
 		executable: false,
 	},
